@@ -42,6 +42,6 @@ src/kernel/font.h = 90 lines
 src/kernel/memory.c = 67 lines
 iso_root/boot/grub/grub.cfg = 25 lines
 src/kernel/interrupts.h = 27 lines
-src/kernelinterrupts.c = 81 lines
+src/kernel/interrupts.c = 81 lines
 
 TOTAL: 736 confirmed code lines
