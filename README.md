@@ -24,7 +24,4 @@ To compile and run CrystalOS, you will need a Linux environment (or WSL) with th
 
 ### Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/daltonware/CrystalOS.git](https://github.com/daltonware/CrystalOS.git)
-   cd CrystalOS
+Coming soon
