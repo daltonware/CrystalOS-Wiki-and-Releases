@@ -13,14 +13,6 @@ CrystalOS is a custom, 32-bit (x86) operating system built entirely from scratch
 - **State Machine UI:** A structured, state-based visual setup process (Welcome Screen, Disk Manager, etc.).
 - **Multiboot2 Compliant:** Bootable via GRUB and compatible with modern x86 emulation.
 
-## 📸 Screenshots
-
-*(Add your screenshots here! You can drag and drop images directly into GitHub to generate the links)*
-
-| Setup Screen | Disk Manager |
-| :---: | :---: |
-| `![Setup](link-to-setupconcept1.png)` | `![Disk](link-to-diskmanager.png)` |
-
 ## 🛠️ Building and Running
 
 To compile and run CrystalOS, you will need a Linux environment (or WSL) with the following tools installed:
