@@ -64,3 +64,5 @@ src/kernel/interrupts.h = 27 lines
 src/kernel/interrupts.c = 81 lines
 
 TOTAL: 789 confirmed code lines
+
+CORRECTION: I REMOVED 3 LINES OF THE main.c AT 8:48 PM BECAUSE I GOT AN ERROR WHILE "ASSEMBLING THE OS" WITH make clean AND make run AND I'M GONNA TEST IT NOW (make clean is used to remove old output files and the make run is to assemble the codes into the output files and run the OS on QEMU, and make is just a short version of make run but it just assembles and does not run the OS.). SO THE TOTAL CONFIRMED CODE LINES IS 786
